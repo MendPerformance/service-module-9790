@@ -1,10 +1,10 @@
 apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
-  name: WebGoat
-  namespace: mend-crest-data
+  name: service-module-9790
+  namespace: MendPerformance
   annotations:
-    github.com/project-slug: mend-crest-data/WebGoat
+    github.com/project-slug: MendPerformance/service-module-9790
 spec:
   type: service
   lifecycle: unknown
